@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "M7bHjRxINP1yCLgcGyIGrNR0l1Fp47tDn03qxH2ZxtRrWgxtQtxrBm+w425lFgsIKnl7LW7ocuDGWA6p7AlZ9Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\BZB\\source\\repos\\Libraries\\UsefullStuffLibrary\\UsefullStuffLibrary\\UsefullStuffLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BZB\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\BZB\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

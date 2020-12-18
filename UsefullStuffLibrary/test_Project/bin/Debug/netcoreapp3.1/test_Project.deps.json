@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "test_Project/1.0.0": {
+        "dependencies": {
+          "UsefullStuffLibrary": "1.0.0"
+        },
+        "runtime": {
+          "test_Project.dll": {}
+        }
+      },
+      "UsefullStuffLibrary/1.0.0": {
+        "runtime": {
+          "UsefullStuffLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "test_Project/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "UsefullStuffLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

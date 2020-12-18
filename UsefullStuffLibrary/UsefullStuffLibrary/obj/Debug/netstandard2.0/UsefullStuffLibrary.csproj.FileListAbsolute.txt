@@ -1,0 +1,9 @@
+C:\Users\BZB\source\repos\Libraries\UsefullStuffLibrary\UsefullStuffLibrary\bin\Debug\netstandard2.0\UsefullStuffLibrary.deps.json
+C:\Users\BZB\source\repos\Libraries\UsefullStuffLibrary\UsefullStuffLibrary\bin\Debug\netstandard2.0\UsefullStuffLibrary.dll
+C:\Users\BZB\source\repos\Libraries\UsefullStuffLibrary\UsefullStuffLibrary\bin\Debug\netstandard2.0\UsefullStuffLibrary.pdb
+C:\Users\BZB\source\repos\Libraries\UsefullStuffLibrary\UsefullStuffLibrary\obj\Debug\netstandard2.0\UsefullStuffLibrary.csprojAssemblyReference.cache
+C:\Users\BZB\source\repos\Libraries\UsefullStuffLibrary\UsefullStuffLibrary\obj\Debug\netstandard2.0\UsefullStuffLibrary.AssemblyInfoInputs.cache
+C:\Users\BZB\source\repos\Libraries\UsefullStuffLibrary\UsefullStuffLibrary\obj\Debug\netstandard2.0\UsefullStuffLibrary.AssemblyInfo.cs
+C:\Users\BZB\source\repos\Libraries\UsefullStuffLibrary\UsefullStuffLibrary\obj\Debug\netstandard2.0\UsefullStuffLibrary.csproj.CoreCompileInputs.cache
+C:\Users\BZB\source\repos\Libraries\UsefullStuffLibrary\UsefullStuffLibrary\obj\Debug\netstandard2.0\UsefullStuffLibrary.dll
+C:\Users\BZB\source\repos\Libraries\UsefullStuffLibrary\UsefullStuffLibrary\obj\Debug\netstandard2.0\UsefullStuffLibrary.pdb

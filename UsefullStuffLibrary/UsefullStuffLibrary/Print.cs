@@ -96,7 +96,7 @@ namespace UsefullStuffLibrary
                 Console.WriteLine(string.Format($"Key = {kvp.Key}, Value = {kvp.Value}"));
             }
         }
-        // dictionary - int, string
+        // dictionary - string, int
         static void Dict(Dictionary<string, int> dictionary)
         {
             foreach (KeyValuePair<string, int> kvp in dictionary)
@@ -104,7 +104,7 @@ namespace UsefullStuffLibrary
                 Console.WriteLine(string.Format($"Key = {kvp.Key}, Value = {kvp.Value}"));
             }
         }
-        // dictionary - int, string
+        // dictionary - string, string
         static void Dict(Dictionary<string, string> dictionary)
         {
             foreach (KeyValuePair<string, string> kvp in dictionary)
@@ -112,7 +112,7 @@ namespace UsefullStuffLibrary
                 Console.WriteLine(string.Format($"Key = {kvp.Key}, Value = {kvp.Value}"));
             }
         }
-        // dictionary - int, string
+        // dictionary - decimal, string
         static void Dict(Dictionary<decimal, string> dictionary)
         {
             foreach (KeyValuePair<decimal, string> kvp in dictionary)
@@ -120,7 +120,7 @@ namespace UsefullStuffLibrary
                 Console.WriteLine(string.Format($"Key = {kvp.Key}, Value = {kvp.Value}"));
             }
         }
-        // dictionary - int, string
+        // dictionary - decimal, decimal
         static void Dict(Dictionary<decimal, decimal> dictionary)
         {
             foreach (KeyValuePair<decimal, decimal> kvp in dictionary)
@@ -128,7 +128,7 @@ namespace UsefullStuffLibrary
                 Console.WriteLine(string.Format($"Key = {kvp.Key}, Value = {kvp.Value}"));
             }
         }
-        // dictionary - int, string
+        // dictionary - string, decimal
         static void Dict(Dictionary<string, decimal> dictionary)
         {
             foreach (KeyValuePair<string, decimal> kvp in dictionary)
@@ -136,7 +136,7 @@ namespace UsefullStuffLibrary
                 Console.WriteLine(string.Format($"Key = {kvp.Key}, Value = {kvp.Value}"));
             }
         }
-        // dictionary - int, string
+        // dictionary - double, double
         static void Dict(Dictionary<double, double> dictionary)
         {
             foreach (KeyValuePair<double, double> kvp in dictionary)
@@ -144,7 +144,7 @@ namespace UsefullStuffLibrary
                 Console.WriteLine(string.Format($"Key = {kvp.Key}, Value = {kvp.Value}"));
             }
         }
-        // dictionary - int, string
+        // dictionary - double, string
         static void Dict(Dictionary<double, string> dictionary)
         {
             foreach (KeyValuePair<double, string> kvp in dictionary)
@@ -152,7 +152,7 @@ namespace UsefullStuffLibrary
                 Console.WriteLine(string.Format($"Key = {kvp.Key}, Value = {kvp.Value}"));
             }
         }
-        // dictionary - int, string
+        // dictionary - string, double
         static void Dict(Dictionary<string, double> dictionary)
         {
             foreach (KeyValuePair<string, double> kvp in dictionary)
@@ -160,7 +160,7 @@ namespace UsefullStuffLibrary
                 Console.WriteLine(string.Format($"Key = {kvp.Key}, Value = {kvp.Value}"));
             }
         }
-        // dictionary - int, string
+        // dictionary - int, double
         static void Dict(Dictionary<int, double> dictionary)
         {
             foreach (KeyValuePair<int, double> kvp in dictionary)
@@ -168,7 +168,7 @@ namespace UsefullStuffLibrary
                 Console.WriteLine(string.Format($"Key = {kvp.Key}, Value = {kvp.Value}"));
             }
         }
-        // dictionary - int, string
+        // dictionary - double, int
         static void Dict(Dictionary<double, int> dictionary)
         {
             foreach (KeyValuePair<double, int> kvp in dictionary)

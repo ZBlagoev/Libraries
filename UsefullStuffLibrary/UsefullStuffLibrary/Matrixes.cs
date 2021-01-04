@@ -56,23 +56,5 @@ namespace UsefullStuffLibrary
 
             return matrix;
         }
-
-        // method for printing matrix
-        public static void PrintMatrix(int[,] input)
-        {
-            for (int i = 0; i < input.GetLength(0); i++)
-            {
-                for (int j = 0; j < input.GetLength(1); j++)
-                {
-                    Console.Write($"{input[i, j]}\t");
-                }
-                Console.WriteLine();
-                Console.WriteLine();
-            }
-        }
-
-
-
-
     }
 }
